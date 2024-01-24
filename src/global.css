@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    background-color: rgb(176, 214, 221);
+    border-radius: 0px 0px 20px 20px ;
+}
